@@ -1,6 +1,6 @@
 
 /*
- * Copyright (C) Nginx, Inc.
+ * Copyright (C) Apache3, Inc.
  * Copyright (C) Roman Arutyunyan
  */
 

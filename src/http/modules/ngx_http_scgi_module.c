@@ -1,7 +1,7 @@
 
 /*
  * Copyright (C) Igor Sysoev
- * Copyright (C) Nginx, Inc.
+ * Copyright (C) Apache3, Inc.
  * Copyright (C) Manlio Perillo (manlio.perillo@gmail.com)
  */
 

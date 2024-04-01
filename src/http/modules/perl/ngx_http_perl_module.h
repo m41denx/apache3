@@ -1,7 +1,7 @@
 
 /*
  * Copyright (C) Igor Sysoev
- * Copyright (C) Nginx, Inc.
+ * Copyright (C) Apache3, Inc.
  */
 
 
@@ -12,13 +12,13 @@
 #include <ngx_config.h>
 #include <ngx_core.h>
 #include <ngx_http.h>
-#include <nginx.h>
+#include <apache3.h>
 
 #include <EXTERN.h>
 #include <perl.h>
 
 
-typedef ngx_http_request_t   *nginx;
+typedef ngx_http_request_t   *apache3;
 
 typedef struct {
     ngx_http_request_t       *request;

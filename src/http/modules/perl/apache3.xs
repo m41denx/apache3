@@ -1,7 +1,7 @@
 
 /*
  * Copyright (C) Igor Sysoev
- * Copyright (C) Nginx, Inc.
+ * Copyright (C) Apache3, Inc.
  */
 
 
@@ -95,7 +95,7 @@ ngx_http_perl_output(ngx_http_request_t *r, ngx_http_perl_ctx_t *ctx,
 }
 
 
-MODULE = nginx    PACKAGE = nginx
+MODULE = apache3    PACKAGE = apache3
 
 
 PROTOTYPES: DISABLE

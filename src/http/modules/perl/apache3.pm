@@ -1,4 +1,4 @@
-package nginx;
+package apache3;
 
 use 5.006001;
 use strict;
@@ -54,7 +54,7 @@ our @EXPORT = qw(
 our $VERSION = '%%VERSION%%';
 
 require XSLoader;
-XSLoader::load('nginx', $VERSION);
+XSLoader::load('apache3', $VERSION);
 
 # Preloaded methods go here.
 
@@ -112,20 +112,20 @@ __END__
 
 =head1 NAME
 
-nginx - Perl interface to the nginx HTTP server API
+apache3 - Perl interface to the apache3 HTTP server API
 
 =head1 SYNOPSIS
 
-  use nginx;
+  use apache3;
 
 =head1 DESCRIPTION
 
-This module provides a Perl interface to the nginx HTTP server API.
+This module provides a Perl interface to the apache3 HTTP server API.
 
 
 =head1 SEE ALSO
 
-http://nginx.org/en/docs/http/ngx_http_perl_module.html
+http://apache3.org/en/docs/http/ngx_http_perl_module.html
 
 =head1 AUTHOR
 
@@ -134,7 +134,7 @@ Igor Sysoev
 =head1 COPYRIGHT AND LICENSE
 
 Copyright (C) Igor Sysoev
-Copyright (C) Nginx, Inc.
+Copyright (C) Apache3, Inc.
 
 
 =cut

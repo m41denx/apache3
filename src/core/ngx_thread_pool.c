@@ -1,6 +1,6 @@
 
 /*
- * Copyright (C) Nginx, Inc.
+ * Copyright (C) Apache3, Inc.
  * Copyright (C) Valentin V. Bartenev
  * Copyright (C) Ruslan Ermilov
  */

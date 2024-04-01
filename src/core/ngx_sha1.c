@@ -1,7 +1,7 @@
 
 /*
  * Copyright (C) Maxim Dounin
- * Copyright (C) Nginx, Inc.
+ * Copyright (C) Apache3, Inc.
  *
  * An internal SHA1 implementation.
  */
